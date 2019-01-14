@@ -1,6 +1,4 @@
-# GEC_Code_STATA
-
-Global Environmental Change Code
+# Institutional_pluralism_Code_STATA
 
 The associated STATA do-file includes the STATA code for the article "Institutional pluralism and water user behaviour in rural Africa".
 
